@@ -1,0 +1,49 @@
+[
+  {
+    "date": "2025-01-1",
+    "title": "When we first met",
+    "description": "I never imagined that a simple New Year's Eve with my friends could turn my world upside down. I thought it would just be another night with my usual friends, nothing more. But then I saw you, and suddenly, I knew I had to take a chance or else I'd regret it for the rest of my life. Because in that moment, you felt too special to let slip away",
+    "images": ["images/Met1.jpg","videos/Met4.mp4","videos/Met3.mp4","videos/Met2.mp4"]
+  },
+  {
+    "date": "2025-01-08",
+    "title": "Our First Date",
+    "description": "I remember feeling so nervous, not really knowing what to do, worried I'd mess everything up and never hear from you again. But as soon as I reached your doorstep and you opened the door, all those fears just disappeared. I was in awe of how beautiful you looked, still amazed that you’d agree to go on a date with me. But when we spent that night at Ardovinos, the laughs never ended with you and shared those Crumbl cookies we never even finished eating, I just knew, you were the one.",
+    "images": ["images/FirstDate.jpg"]
+  },
+  {
+    "date": "2025-02-14",
+    "title": "Our First Valentine's Day",
+    "description": "I spent hours trying to come up with the perfect date even though we were hundreds of miles apart. Hours choosing the right flowers, talking with florists trying to convince them to take my order, and consulting my sister and Dinora to get them just right. Hours looking through sketchy websites to find The Substance and figure out a way for us to watch it together. And hours searching for a fun activity, until I remembered you’d mentioned It Takes Two and wanted to play. Every single moment of planning was all worth it the moment I heard your voice on our call, asking how I was.",
+    "images": ["images/Valentines.jpg"]
+  },
+  {
+    "date": "2025-03-12",
+    "title": "When we started Dating",
+    "description": "I honestly had no idea what to expect when I decided to ask you to be my girlfriend, I just knew it had to be perfect. I wanted everything to be as special as possible, even though, of course, things didn’t go exactly as planned. I remember the moment I got the call that our Airbnb was cancelled, and I was already with you. I had no idea what to do. Luckily, I have the best friends in the world who helped me turn that day around and make it extra special for you. That night is one of the most unforgettable ones for me, filled with laughs, silly moments, and even a bit of awkwardness (like when I couldn’t even look you in the eyes during dinner). Now, as we near our one month anniversary, I’m amazed at how comfortable I feel with you and just how much I love you.",
+    "images": ["images/Dating1.jpg","images/Dating2.jpg","images/Dating3.jpg","images/Dating4.jpg","images/Dating5.jpg"],
+    "group": "trip"
+  },
+  {
+    "date": "2025-03-16",
+    "title": "Our First Weekend Together",
+    "description": "This trip still feels like a dream, and I can hardly believe how fast it all went by. It was honestly one of the best trips I've ever taken, every other trip I’ve been on just doesn't come close to that amazing weekend with you. I loved how you took me around town, showing me all your favorite spots, and how we’d hold hands as we walked. And I’ll never forget us chilling at the dog park, watching Elphie zoom around while we just talked. Those moments are memories I’ll always cherish, and I can’t wait for many more adventures with you.",
+    "images": ["images/Trip1.jpg", "images/Trip2.jpg","images/Trip3.jpg","images/Trip4.jpg","images/Trip5.jpg"],
+    "group": "trip"
+  },
+  {
+    "date": "2025-04-02",
+    "title": "When we said I Love You",
+    "description": "I loved how comfortable I felt in the moment. How sure I was of the next few words that would come out of my mouth. And how happy I was for you to be the one I said I love you to. Even though I know you wanted to be first, I really couldn't contain myself any more. I knew exactly how I felt and I was tired of pretending otherwise. I Love You Krista.",
+    "images": [],
+    "group": "love"
+  },
+  {
+    "date": "2025-04-03",
+    "title": "When we said I Love You",
+    "description": "I loved how comfortable I felt in the moment. How sure I was of the next few words that would come out of my mouth. And how happy I was for you to be the one I said I love you to. Even though I know you wanted to be first, I really couldn't contain myself any more. I knew exactly how I felt and I was tired of pretending otherwise. I Love You Krista.",
+    "images": [],
+    "group": "love"
+  }
+
+]
